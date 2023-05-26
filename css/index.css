@@ -1,0 +1,22 @@
+body {
+  /* #1c1c1c*/
+  background-color: #292929;
+  padding: 0;
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+}
+
+#app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+canvas {
+  margin: 0.5rem;
+  background-color: #545454;
+  border-radius: 5px;
+  box-shadow: 0 4px 3px 0 #212121a8;
+}
